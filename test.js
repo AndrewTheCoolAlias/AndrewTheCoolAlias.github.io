@@ -1,7 +1,4 @@
 document.write("");
-
-if (document.domain !== "iheobagjkfklnlikgihanlhcddjoihkg")
- alert("clamp is normally used in the securly runtime but you can use it as a bookmarklet too so I won't bother you about this.");
 /* create css */
 var css = document.createElement("link");  
 css.setAttribute("rel", "stylesheet");  
