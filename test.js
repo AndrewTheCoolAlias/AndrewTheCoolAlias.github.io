@@ -1,4 +1,8 @@
 document.write("");
+if (document.domain !== "about:blank"){
+  clamp();
+}
+  function clamp(){
 /* create css */
 var css = document.createElement("link");  
 css.setAttribute("rel", "stylesheet");  
@@ -20,3 +24,4 @@ intro.innerHTML = introtext;
 intro.id = "introtext";
 document.body.appendChild(intro);
 console.log("subtext made");
+  };
