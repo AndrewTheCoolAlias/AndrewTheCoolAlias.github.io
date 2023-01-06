@@ -1,6 +1,7 @@
 body {
-font-family: 'Comic Sans MS', sans-serif
- background-image: url('https://raw.githubusercontent.com/AndrewTheCoolAlias/AndrewTheCoolAlias.github.io/main/img/4k_bliss.jpg');
+font-family: Verdana, 'Comic Sans MS', sans-serif
+background-color: #222222;
+  color: #cccccc;
 }
 
 #glow {
